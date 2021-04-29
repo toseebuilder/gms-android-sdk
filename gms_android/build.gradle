@@ -1,7 +1,9 @@
 plugins {
     id 'com.android.library'
 }
-
+afterEvaluate {
+    generateReleaseBuildConfig.enabled = false
+}
 android {
     compileSdkVersion 30
     buildToolsVersion "30.0.3"
