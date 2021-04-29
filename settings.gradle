@@ -1,0 +1,2 @@
+include ':gms_android'
+rootProject.name = "gms-android-sdk"
