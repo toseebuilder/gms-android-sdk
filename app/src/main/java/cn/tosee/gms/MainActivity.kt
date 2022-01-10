@@ -1,19 +1,19 @@
-package com.rzrtc.gms
+package cn.tosee.gms
 
 import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
-import com.rz.gms.ErrorInfo
-import com.rz.gms.ResultCallback
-import com.rz.gms.bean.LoginParams
-import com.rz.gms.client.GMSClient
-import com.rz.gms.client.GMSClientListener
-import com.rz.gms.connect.bean.EnvConfig
-import com.rz.gms.connect.bean.GMSMessage
-import com.rz.gms.connect.bean.Options
-import com.rz.gms.user.GMSAttributeWithState
-import com.rz.gms.utils.EmptyUtils
-import com.rz.gms.utils.EncryptUtils
+import cn.ts.gms.ErrorInfo
+import cn.ts.gms.ResultCallback
+import cn.ts.gms.bean.LoginParams
+import cn.ts.gms.client.GMSClient
+import cn.ts.gms.client.GMSClientListener
+import cn.ts.gms.connect.bean.EnvConfig
+import cn.ts.gms.connect.bean.GMSMessage
+import cn.ts.gms.connect.bean.Options
+import cn.ts.gms.user.GMSAttributeWithState
+import cn.ts.gms.utils.EmptyUtils
+import cn.ts.gms.utils.EncryptUtils
 
 class MainActivity : AppCompatActivity() {
 

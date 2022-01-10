@@ -1,4 +1,4 @@
-package com.rzrtc.gms
+package com.tosee.gms
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

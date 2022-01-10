@@ -8,7 +8,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.rzrtc.gms"
+        applicationId "cn.rzrtc.gms"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1

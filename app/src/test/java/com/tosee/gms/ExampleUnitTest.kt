@@ -1,4 +1,4 @@
-package com.rzrtc.gms
+package com.tosee.gms
 
 import org.junit.Test
 
