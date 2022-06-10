@@ -41,9 +41,9 @@ dependencies {
     implementation 'com.squareup.okio:okio:1.13.0'
 }
 
-def group_jar = 'com.github.rzrtcbuilder'
+def group_jar = 'com.github.toseebuilder'
 //def version_jar =  '1.5.3' //release仓库 使用
-def version_jar = '2.1.1' //推送开发库使用
+def version_jar = '2.1.2-SNAPSHOT' //推送开发库使用
 def artifactId_jar = 'gms-android-sdk'
 
 apply plugin: 'maven'
